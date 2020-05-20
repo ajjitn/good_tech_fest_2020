@@ -1,2 +1,3 @@
-# good_tech_fest_2020
-Slides for Good Tech Fest presentation
+# Slides on Spatial Equity Tool
+
+Presented at Good Tech Fest on 2020-20-05. For questions/comments/feedback please reeach out to anarayanan@urban.org!
